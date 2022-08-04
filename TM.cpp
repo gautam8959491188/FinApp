@@ -2,5 +2,5 @@
 using namespace std;
 itn main()
 {
-cout<<"Thinking Machines"<<endl;
+cout<<"Thinking Machines Updated"<<endl;
 }
