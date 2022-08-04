@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"Think Big V3"<<endl;
+cout<<"Think Big using pull command"<<endl;
 return 0;
 }
