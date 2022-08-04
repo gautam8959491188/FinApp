@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"Think Big"<<endl;
+cout<<"Think Big Updated"<<endl;
 return 0;
 }
